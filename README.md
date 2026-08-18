@@ -1,2 +1,2 @@
 # belajar-kaloborasi
-belajar menggunkan fork dalam materi kalobari github
+belajar di dicoding menggunkan fork dalam materi kalobari github sangat menyenangkan
